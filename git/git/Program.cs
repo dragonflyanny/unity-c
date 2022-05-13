@@ -11,7 +11,7 @@ namespace seminar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("my first application test.");
+            Console.WriteLine("my first application test 2.");
             Console.ReadLine();
         }
     }
